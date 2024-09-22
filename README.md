@@ -1,4 +1,5 @@
-![Papel de parede para computador astronauta galáxia preto e branco (1)](https://github.com/user-attachments/assets/f80f1b1d-a8a2-4cc7-bad6-6d47390dca3a)
+![Papel de parede para computador astronauta galáxia preto e branco (2)](https://github.com/user-attachments/assets/c1f79855-5aa7-42fa-be3f-6a9ee113c073)
+
 <h3 align="center">A passionate Data scientist from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
