@@ -1,7 +1,15 @@
 ![Papel de parede para computador astronauta galáxia preto e branco (2)](https://github.com/user-attachments/assets/c1f79855-5aa7-42fa-be3f-6a9ee113c073)
 
 <h3 align="center">A passionate Data scientist from Brazil</h3>
-### 💻 Um pouco sobre mim
+
+<h3 align="left">💻 A little about me</h3>
+
+- 👶 Birthday 11 April 1999
+- 🏖️ I love beaches and traveling
+- 📫 How to reach me: rayllanperes@gmail.com 
+- 👊 I am currently fully focused on understanding how to solve problems using data and machine learning.
+- 💼 Data Scientist
+- 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayllanperes&show_icons=true&locale=en" alt="rayllanperes" /></p>
 
