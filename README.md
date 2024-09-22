@@ -1,4 +1,4 @@
-![](https://www.canva.com/design/DAGRgWXRIVo/w1o2fKaHa02IX5cvO8YtDw/edit?utm_content=DAGRgWXRIVo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Papel de parede para computador astronauta galáxia preto e branco (1)](https://github.com/user-attachments/assets/f80f1b1d-a8a2-4cc7-bad6-6d47390dca3a)
 <h3 align="center">A passionate Data scientist from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
