@@ -26,8 +26,7 @@
 - Personalizando meu portfólio de ciência de dados
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayllanperes&show_icons=true&locale=en" alt="rayllanperes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayllanperes&" alt="rayllanperes" /></p>  
+  
 
 
 <h3 align="left">📁 Tecnologias dominadas:</h3>
